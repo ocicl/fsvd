@@ -1,0 +1,10 @@
+* fsvd
+
+Common Lisp Funky Singular Value Decomposition library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melisgl/fsvd.git   |
+| commit  | fbc7450  |
+| systems | fsvd |
+|---------+-------------------------------------------|
+
